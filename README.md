@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Roy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/e84b0f1e-c604-4369-8fc5-f063da32d481)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c0a9445c-350b-4d70-ac5c-9e3b3d7146f4)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan178&label=Profile%20views&color=0e75b6&style=flat" alt="ayan178" /> </p>
 
